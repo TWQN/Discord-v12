@@ -13,3 +13,5 @@
 # 1.6 launch bot with cmd (node index.js)
 
 # 1.7 Good Luck
+
+# Made by TWQN
