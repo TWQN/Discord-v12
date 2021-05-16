@@ -11,3 +11,5 @@
 1.5 edit config.json/database.json with correct settings 
 
 1.6 launch bot with cmd (node index.js)
+
+1.7 Good Luck
